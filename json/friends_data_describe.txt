@@ -1,0 +1,14 @@
+//friends name er akta obj create kore 2 to obj create korlam
+// https://codebeautify.org/jsonviewer chack code validity
+{
+	"friends":[ //array er moddhe obj,creating array
+		{
+			"name":"asis", //creating obj
+			"age":29
+		},
+		{
+			"name":"rahul",
+			"age":89
+		}
+	]
+}

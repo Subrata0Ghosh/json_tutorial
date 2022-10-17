@@ -1,0 +1,40 @@
+{
+	"students":[
+		{
+			"name":"asis das",
+			"middleName":null,
+			"age":31,
+			"cgpa":3.44,
+			"isRegistered":true,
+			"languages":["bangali","english","hindi"],
+			"friends":[
+				{
+					"name":"anar",
+					"age":25
+				},
+				{
+					"name":"rahul",
+					"age":28
+				}
+			]
+		},
+		{
+			"name":"arnab das",
+			"middleName":null,
+			"age":30,
+			"cgpa":2.92,
+			"isRegistered":false,
+			"languages":["bangali","english","hindi","finnish"],
+			"friends":[
+				{
+					"name":"shakila",
+					"age":24
+				},
+				{
+					"name":"kobiraj",
+					"age":26
+				}
+			]
+		}
+	]
+}

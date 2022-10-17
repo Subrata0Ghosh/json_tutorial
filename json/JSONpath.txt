@@ -1,0 +1,16 @@
+// access,modify,delete,convert
+
+//access
+//we can access json data useing 2 method dot,bracket notation
+// ex1: data1.name
+// ex2: data1["name"]
+// to access obj use dot and to access array use bracket method
+// ex: data2.friends[0].languages[0]
+
+//modify
+// data.friends[0].name=bijoy
+// data.friends[1].age=31
+
+//delete
+// delete data.frinds[0].name;
+

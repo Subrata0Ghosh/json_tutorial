@@ -1,0 +1,25 @@
+//json schema
+// ami user er theke Int,string type data nite pari 
+// user int er jaigai onno type data  na dite pare
+
+//json to schema converter
+// https://www.liquid-technologies.com/online-json-to-schema-converter
+
+// https://www.jsonschemavalidator.net/  //schema te convert korar por user er json data 
+// ta chack korbe schema er sathe
+
+// schama example
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+
+    "type": "object",
+
+    "properties": {
+
+        "name":{ "type": "string" },
+        "age":{"type": "integer"}
+    },
+
+    "required":["name","age"]
+
+}
